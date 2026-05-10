@@ -1,0 +1,11 @@
+__pycache__/
+*.pcapng
+*.22000
+*.hc22000
+*.essids
+essids_*.txt
+identities_*.txt
+usernames_*.txt
+cracked_passwords/
+temp_target_essid.txt
+*.restore
